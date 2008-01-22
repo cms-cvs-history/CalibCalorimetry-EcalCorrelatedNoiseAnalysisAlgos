@@ -7,8 +7,6 @@
 
 #include "Riostream.h"
 #include "TROOT.h"
-#include "TApplication.h"
-#include "TGClient.h"
 #include "TRint.h"
 
 extern void InitGui();
@@ -17,26 +15,7 @@ TROOT root("GUI","GUI test environnement", initfuncs);
 
 #include <stdlib.h>
 #include <string>
-#include "TSystem.h"
-#include "TObject.h"
-#include "TVector.h"
-#include "TFile.h"
-#include "TCanvas.h"
-#include "TRootCanvas.h"
-#include "TFrame.h"
-#include "TGaxis.h"
-#include "TH2.h"
-#include "TH1.h"
-#include "TF1.h"
-#include "TStyle.h"
-#include "TTree.h"
-#include "TChain.h"
 #include "TString.h"
-#include "TLatex.h"
-#include "TTree.h"
-#include "TPaveLabel.h"
-#include "TPaveText.h"
-#include "TCutG.h"
 
 using namespace std;
 

@@ -6,12 +6,9 @@
 //
 //---------------------------------------------------------------
 #include "Riostream.h"
-#include "TObject.h"
 #include "TROOT.h"
-#include "TGApplication.h"
 #include "TGClient.h"
 #include "TRint.h"
-#include "TGWindow.h"
 
 // CMSSW include files
 
