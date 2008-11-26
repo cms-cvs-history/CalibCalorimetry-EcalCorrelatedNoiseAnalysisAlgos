@@ -9,6 +9,7 @@
 #include "TROOT.h"
 #include "TGClient.h"
 #include "TRint.h"
+#include <cstdlib>
 
 // CMSSW include files
 
